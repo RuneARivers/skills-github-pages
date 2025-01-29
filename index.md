@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Rune's First Site
 ---
 
